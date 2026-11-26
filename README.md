@@ -19,7 +19,7 @@ A command-line Python program that fetches a Valorant player's account info, com
 
     get API from: https://api.henrikdev.xyz/dashboard/api-keys
    ```env
-   VALORANT_API_KEY=your_api_key_here
+   VALORANT_API_KEY= "your_api_key_here"
    ```
 4. Run the program:
    ```bash
