@@ -36,6 +36,7 @@ Player ID: Hak33m#TAKT
 Player Level: 201
 Player Region: eu
 Player Platform: ['pc']
+Player Peak Rank: Platinum 1
 Player Rank: Gold 1
 Player RR: 0
 ```
