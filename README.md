@@ -21,6 +21,7 @@ A Python CLI tool and Discord bot that fetches a Valorant player's account info,
     Get a Discord bot token from: https://discord.com/developers/applications
    ```env
    VALORANT_API_KEY= "your_api_key_here"
+   DISCORD_TOKEN= "your_discord_token_here"
    ```
 4. Run the program:
    ```bash
