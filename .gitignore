@@ -1,2 +1,4 @@
 .env
+*.bat
+.vscode
 __pycache__/
